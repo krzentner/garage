@@ -1,2 +1,0 @@
-from garage.q_functions.base import QFunction
-from garage.q_functions.continuous_mlp_q_function import ContinuousMLPQFunction
